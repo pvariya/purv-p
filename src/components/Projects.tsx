@@ -28,7 +28,7 @@ const projectsData: Project[] = [
       "Responsive UI using React and Tailwind CSS"
     ],
     icon: <ShoppingCart size={32} />,
-    github: "https://github.com/pvariya/ecommerce"
+    github: "https://github.com/pvariya/e-com"
   },
   {
     id: 2,
